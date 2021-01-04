@@ -1,0 +1,105 @@
+/* Body */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: arial, sans-serif;
+}
+
+/* Header and Footer */
+header {
+  margin: 0;
+  padding: 0;
+  font-size: 13px;
+  color: #000000;
+  opacity: 0.75;
+  width: 100%;
+  top: 0;
+  background: transparent;
+}
+footer {
+  margin: 0;
+  padding: 0;
+  font-size: 13px;
+  color: #70757a;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  background-color: #f2f2f2;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+li {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+}
+.left-li {
+  float: left;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.header-li {
+  padding-top: 10px;
+  padding-bottom: 1 0px;
+}
+.right-li {
+  float: right;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.footer-li {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+#app-menu-icon {
+  height: 17px;
+  width: 17px;
+  opacity: 70%;
+}
+.a-no-underln {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Main (Logo and Form) */
+.q-container {
+  position: absolute;
+  top: 20.4%;
+  width: 100%;
+}
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 30px;
+}
+#q {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+input[type="text"] {
+  width: 35%;
+  border: 1px solid #d0d0d0;
+  border-radius: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 16px;
+  color: rgba(0,0,0,.87);
+}
+.q-input-group {
+  position: relative;
+  padding-bottom: 22px;
+}
+.button-group {
+  text-align: center;
+}
+.search-button {
+
+}
