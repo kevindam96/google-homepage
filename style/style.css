@@ -83,7 +83,9 @@ li {
   font-weight: bold;
   height: 30px;
   margin-top: -10px;
+  padding-top: 6px;
   padding-right: 12px;
+  padding-bottom: 6px;
   padding-left: 12px;
   background-color: #4387fd;
   color: #f2f2f2;
@@ -144,7 +146,7 @@ input[type="text"] {
   width: 20px;
   height: 20px;
   opacity: 30%;
-  padding-left: 515px;
+  padding-left: 30.7%;
 }
 .microphone {
   position: absolute;
@@ -153,7 +155,7 @@ input[type="text"] {
   justify-content: center;
   width: 20px;
   height: 20px;
-  padding-left: 1140px;
+  padding-left: 68%;
 }
 .button-group {
   text-align: center;
